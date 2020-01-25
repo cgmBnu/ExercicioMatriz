@@ -1,0 +1,12 @@
+C:\Users\cleber.motta\Desktop\Cleber\Curso\ExercicioMatriz\ExercicioMatriz\bin\Debug\ExercicioMatriz.exe.config
+C:\Users\cleber.motta\Desktop\Cleber\Curso\ExercicioMatriz\ExercicioMatriz\bin\Debug\ExercicioMatriz.exe
+C:\Users\cleber.motta\Desktop\Cleber\Curso\ExercicioMatriz\ExercicioMatriz\bin\Debug\ExercicioMatriz.pdb
+C:\Users\cleber.motta\Desktop\Cleber\Curso\ExercicioMatriz\ExercicioMatriz\obj\Debug\ExercicioMatriz.csprojAssemblyReference.cache
+C:\Users\cleber.motta\Desktop\Cleber\Curso\ExercicioMatriz\ExercicioMatriz\obj\Debug\ExercicioMatriz.exe
+C:\Users\cleber.motta\Desktop\Cleber\Curso\ExercicioMatriz\ExercicioMatriz\obj\Debug\ExercicioMatriz.pdb
+C:\Users\cleber.motta\Desktop\Cleber\Curso\Curso OO\ExercicioMatriz\ExercicioMatriz\bin\Debug\ExercicioMatriz.exe.config
+C:\Users\cleber.motta\Desktop\Cleber\Curso\Curso OO\ExercicioMatriz\ExercicioMatriz\bin\Debug\ExercicioMatriz.exe
+C:\Users\cleber.motta\Desktop\Cleber\Curso\Curso OO\ExercicioMatriz\ExercicioMatriz\bin\Debug\ExercicioMatriz.pdb
+C:\Users\cleber.motta\Desktop\Cleber\Curso\Curso OO\ExercicioMatriz\ExercicioMatriz\obj\Debug\ExercicioMatriz.csprojAssemblyReference.cache
+C:\Users\cleber.motta\Desktop\Cleber\Curso\Curso OO\ExercicioMatriz\ExercicioMatriz\obj\Debug\ExercicioMatriz.exe
+C:\Users\cleber.motta\Desktop\Cleber\Curso\Curso OO\ExercicioMatriz\ExercicioMatriz\obj\Debug\ExercicioMatriz.pdb
