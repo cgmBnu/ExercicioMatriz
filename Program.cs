@@ -43,7 +43,7 @@ namespace ExercicioMatriz
                     }
                 }
             }
-            Console.WriteLine($"A quantidade de numeros negativos é = {negativos} os numeros são :{numerosNegativos}");
+            Console.WriteLine($"A quantidade de numeros negativos é = {negativos}, os numeros são :");
         }
     }
 }
